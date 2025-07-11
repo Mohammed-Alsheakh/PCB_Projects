@@ -1,4 +1,4 @@
-# Other PCB Projects
+# PCB Projects
 
 A collection of custom electronic PCB designs created with KiCad.
 
