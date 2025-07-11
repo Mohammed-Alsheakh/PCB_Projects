@@ -22,6 +22,9 @@ Electronic speed controller for brushless DC motors using Dual Inline Package DI
 ### 6. PID Controller Using Opamps (DC Motor Position Control _ Potentiometer Sensor)
 PID controller with operational amplifiers; Kp, Ki, Kd adjustable by potentiometers.
 
+### 7. Step Motor Driver
+Step motor driver designed from scratch using the DRV8825 chip, created as a graduation project.
+
 ---
 
 Each project folder contains the circuit schematic in PDF format, photos of the PCB layers, and 3D render images.
