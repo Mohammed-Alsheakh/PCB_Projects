@@ -25,6 +25,11 @@ PID controller with operational amplifiers; Kp, Ki, Kd adjustable by potentiomet
 ### 7. Step Motor Driver
 Step motor driver designed from scratch using the DRV8825 chip, created as a graduation project.
 
+### 8. TI MSPM0 Microcontroller
+This repository contains a custom PCB design based on the Texas Instruments MSPM0 microcontroller.
+The board is designed for embedded control applications and includes essential power and programming interfaces.
+
+
 ---
 
 Each project folder contains the circuit schematic in PDF format, photos of the PCB layers, and 3D render images.
