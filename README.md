@@ -29,6 +29,9 @@ Step motor driver designed from scratch using the DRV8825 chip, created as a gra
 This repository contains a custom PCB design based on the Texas Instruments MSPM0 microcontroller.
 The board is designed for embedded control applications and includes essential power and programming interfaces.
 
+### 9. Blue Pill Demo
+This project is a Blue Pill Demo implemented using the STM32WB55 MCU.
+It demonstrates basic peripheral initialization, GPIO control, and embedded system fundamentals on an STM32 platform.
 
 ---
 
