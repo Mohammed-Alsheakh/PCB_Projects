@@ -9,6 +9,11 @@ Simple open-loop boost converter using 555 timer and potentiometer to adjust out
 
 
 
+
+
+
+
+
 2. DC DC Buck Converter [🔗](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/DC%20DC%20Buck%20Converter)
 
 Closed-loop buck converter using LM2596 chip with potentiometer for voltage adjustment.
