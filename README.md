@@ -1,8 +1,8 @@
-# PCB Projects
+#PCB Projects#
 
 A collection of custom electronic PCB designs created with KiCad.
 
-## Projects
+##Projects##
 
 ### 1. Basic DC DC Boost Converter [🔗](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/Basic%20DC%20DC%20Boost%20Converter)
 Simple open-loop boost converter using 555 timer and potentiometer to adjust output voltage.
@@ -29,7 +29,7 @@ Step motor driver designed from scratch using the DRV8825 chip, created as a gra
 This repository contains a custom PCB design based on the Texas Instruments MSPM0 microcontroller.
 The board is designed for embedded control applications and includes essential power and programming interfaces.
 
-### 9. Blue Pill Demo (https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/Blue%20Pill%20Demo)
+### 9. Blue Pill Demo [🔗](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/Blue%20Pill%20Demo)
 This project is a Blue Pill Demo implemented using the STM32WB55 MCU.
 It demonstrates basic peripheral initialization, GPIO control, and embedded system fundamentals on an STM32 platform.
 
