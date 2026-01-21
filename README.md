@@ -1,8 +1,8 @@
-#PCB Projects#
+# PCB Projects #
 
 A collection of custom electronic PCB designs created with KiCad.
 
-##Projects##
+## Projects ##
 
 ### 1. Basic DC DC Boost Converter [🔗](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/Basic%20DC%20DC%20Boost%20Converter)
 Simple open-loop boost converter using 555 timer and potentiometer to adjust output voltage.
