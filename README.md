@@ -58,6 +58,11 @@ Projects :
    It demonstrates basic peripheral initialization, GPIO control, and embedded system fundamentals on an STM32 platform.
 
 
+
+10. ESP32 Demo Project  [🔗]([https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/TI%20MSPM0](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/ESP32%20Demo%20Project))
+
+   This project is a 4-layer IoT PCB design developed using the ESP32 microcontroller. It demonstrates fundamental applications in embedded systems and printed circuit board design.
+
 ---
 
 Each project folder contains the circuit schematic in PDF format, photos of the PCB layers, and 3D render images.
