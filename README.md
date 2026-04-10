@@ -59,7 +59,7 @@ Projects :
 
 
 
-10. ESP32 Demo Project  [🔗]([https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/TI%20MSPM0](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/ESP32%20Demo%20Project))
+10. ESP32 Demo Project  [🔗](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/ESP32%20Demo%20Project)
 
    This project is a 4-layer IoT PCB design developed using the ESP32 microcontroller. It demonstrates fundamental applications in embedded systems and printed circuit board design.
 
