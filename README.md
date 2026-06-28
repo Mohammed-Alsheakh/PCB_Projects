@@ -64,9 +64,16 @@ Projects :
    This project is a 4-layer IoT PCB design developed using the ESP32 microcontroller. It demonstrates fundamental applications in embedded systems and printed circuit board design.
 
 
+
 11. Arduino Nano [🔗](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/Arduino%20Nano)
 
     This project is a 4-layer PCB design developed using the Arduino Nano platform and the ATmega328P microcontroller.
+
+
+
+12. ESP32-WROOM-32D [🔗](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/ESP32-WROOM-32D)
+
+    This project is a 4-layer PCB design developed using the ESP32-WROOM-32D module with USB-C connectivity. It incorporates an LED driver and an I²C interface for efficient peripheral control and communication.
 ---
 
 Each project folder contains the circuit schematic in PDF format, photos of the PCB layers, and 3D render images.
