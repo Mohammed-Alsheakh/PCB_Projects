@@ -80,6 +80,12 @@ Projects :
 13. Raspberry Pi PICO [🔗](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/Raspberry%20Pi%20PICO)
 
     A 4-layer PCB hardware project based on Raspberry Pi Pico, featuring RS485 communication and I2C sensor interfaces.
+
+
+
+14. ESP32-S3-TESTBOARD [🔗](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/ESP32-S3-TESTBOARD)
+
+    A 4-layer PCB board based on the ESP32-S3 module, featuring a Si7021 temperature and humidity sensor.
 ---
 
 Each project folder contains the circuit schematic in PDF format, photos of the PCB layers, and 3D render images.
