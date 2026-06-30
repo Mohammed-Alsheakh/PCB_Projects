@@ -74,6 +74,12 @@ Projects :
 12. ESP32-WROOM-32D [🔗](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/ESP32-WROOM-32D)
 
     This project is a 4-layer PCB design developed using the ESP32-WROOM-32D module with USB-C connectivity. It incorporates an LED driver and an I²C interface for efficient peripheral control and communication.
+
+
+
+13. Raspberry Pi PICO [🔗](https://github.com/Mohammed-Alsheakh/PCB_Projects/tree/main/Raspberry%20Pi%20PICO)
+
+    A 4-layer PCB hardware project based on Raspberry Pi Pico, featuring RS485 communication and I2C sensor interfaces.
 ---
 
 Each project folder contains the circuit schematic in PDF format, photos of the PCB layers, and 3D render images.
